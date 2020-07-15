@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/nilbson.py/)
 ![Gmail Badge](https://img.shields.io/badge/-nilbsonla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilbsonla@gmail.com)
 
-:speech_balloon: About Me
+### About Me :speech_balloon:
 
 Computer engineering student at Federal University of Paraiba. Experiences with natural language processing, data science, reinforcement learning and bioinformatics  with enphasis on characterization of oncological SNPs and ncRna coding potential with machine learning algorithms. Currently developer at [Conductor Tecnologia](https://www.conductor.com.br/), researcher at [ARIA](https://aria.ci.ufpb.br/).
 
