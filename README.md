@@ -2,7 +2,7 @@
 ![](https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif)
 
 :calling: Contact me
-https://twitter.com/nilbsonrafael 
+[Twitter](https://twitter.com/nilbsonrafael)
 
 
 :speech_balloon: About Me
