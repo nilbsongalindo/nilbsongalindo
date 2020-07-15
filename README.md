@@ -20,11 +20,11 @@ Computer engineering student at Federal University of Paraiba. Experiences with 
     <tr valign="top">
       <td width="25%" align="center">
         <span>C++</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/cplusplus.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
       <td width="25%" align="center">
-        <span>TypeScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+        <span>Pytorch</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
       </td>
       <td width="25%" align="center">
         <span>Python</span><br><br><br>
@@ -39,36 +39,11 @@ Computer engineering student at Federal University of Paraiba. Experiences with 
       <td width="25%" align="center">
         <span>Tensorflow</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>ReactJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
-      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
-      <td width="25%" align="center">
-        <spanMongoDBspan><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
       </td>
     </tr>
   </tbody>
