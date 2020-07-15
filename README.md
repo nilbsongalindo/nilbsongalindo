@@ -17,7 +17,6 @@ Computer engineering student at Federal University of Paraiba. Experiences with 
 
 <table>
   <tbody>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>C++</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
@@ -27,7 +26,6 @@ Computer engineering student at Federal University of Paraiba. Experiences with 
         <span>C</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
-     <tr valign="top">
       <td width="25%" align="center">
         <span>Docker</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
