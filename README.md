@@ -21,7 +21,6 @@ Computer engineering student at Federal University of Paraiba. Experiences with 
         <span>C++</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
-     <tr valign="top">
       <td width="25%" align="center">
         <span>C</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
@@ -38,18 +37,13 @@ Computer engineering student at Federal University of Paraiba. Experiences with 
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>Tensorflow</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
       </td>
-    </tr>
   </tbody>
 </table>
 
