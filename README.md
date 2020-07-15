@@ -22,6 +22,11 @@ Computer engineering student at Federal University of Paraiba. Experiences with 
         <span>C++</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
+     <tr valign="top">
+      <td width="25%" align="center">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>
       <td width="25%" align="center">
         <span>Pytorch</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
