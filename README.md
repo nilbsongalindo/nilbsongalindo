@@ -17,6 +17,7 @@ Computer engineering student at Federal University of Paraiba. Experiences with 
 
 <table>
   <tbody>
+    <tr>
       <td width="25%" align="center">
         <span>C++</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
@@ -29,6 +30,8 @@ Computer engineering student at Federal University of Paraiba. Experiences with 
         <span>Docker</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
+   </tr>
+   <tr>
       <td width="25%" align="center">
         <span>Pytorch</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
@@ -40,6 +43,7 @@ Computer engineering student at Federal University of Paraiba. Experiences with 
       <td width="25%" align="center">
         <span>Tensorflow</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+   </tr>
   </tbody>
 </table>
 
