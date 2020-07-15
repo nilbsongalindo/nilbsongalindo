@@ -1,4 +1,4 @@
-### Hi. I'm Nilbson Galindo. Welcome to my Github profile. :octocat: 👋
+### Hi. I'm Nilbson Galindo. Welcome to my Github profile. :octocat: :relaxed:
 ![](https://media.giphy.com/media/fSpC2w245xoVyCCuVx/giphy.gif)
  
 ### Contact me :calling:
