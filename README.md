@@ -19,8 +19,8 @@ Computer engineering student at Federal University of Paraiba. Experiences with 
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>NodeJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+        <span>C++</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/cplusplus.svg">
       </td>
       <td width="25%" align="center">
         <span>TypeScript</span><br><br><br>
