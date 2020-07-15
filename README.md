@@ -40,10 +40,6 @@ Computer engineering student at Federal University of Paraiba. Experiences with 
       <td width="25%" align="center">
         <span>Tensorflow</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
-      <td width="25%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
-      </td>
   </tbody>
 </table>
 
