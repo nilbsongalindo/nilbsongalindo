@@ -2,7 +2,10 @@
 ![](https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif)
 
 :calling: Contact me
-[Twitter](https://twitter.com/nilbsonrafael)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/nilbsongalindo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilbson-galindo-2a3237138)](https://www.linkedin.com/in/nilbson-galindo-2a3237138)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/nilbsonrafael)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/nilbson.py/)
 
 
 :speech_balloon: About Me
