@@ -11,7 +11,7 @@
 
 ### About Me :speech_balloon:
 
-Computer engineering student at Federal University of Paraiba. Experiences with natural language processing, data science, reinforcement learning and bioinformatics  with enphasis on characterization of oncological SNPs and ncRna coding potential with machine learning algorithms. Currently developer at [Conductor Tecnologia](https://www.conductor.com.br/), researcher at [ARIA](https://aria.ci.ufpb.br/).
+Computer engineering student at Federal University of Paraiba. Experiences with natural language processing, data science, reinforcement learning and bioinformatics  with enphasis on characterization of oncological SNPs and ncRna coding potential with machine learning algorithms. Currently developer at [Conductor Tecnologia](https://www.conductor.com.br/) and researcher at [ARIA](https://aria.ci.ufpb.br/).
 
 <!--
 **nilbsongalindo/nilbsongalindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
