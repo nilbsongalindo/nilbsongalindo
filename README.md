@@ -1,6 +1,10 @@
 ### Hi. I'm Nilbson Galindo. Welcome to my Github profile. :octocat: 👋
 ![](https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif)
 
+:calling: Contact me
+https://twitter.com/nilbsonrafael 
+
+
 :speech_balloon: About Me
 
 Computer engineering student at Federal University of Paraiba. Experiences with natural language processing, data science, reinforcement learning and bioinformatics  with enphasis on characterization of oncological SNPs and ncRna coding potential with machine learning algorithms. Currently developer at [Conductor Tecnologia](https://www.conductor.com.br/), researcher at [ARIA](https://aria.ci.ufpb.br/).
