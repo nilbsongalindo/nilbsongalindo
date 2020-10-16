@@ -11,7 +11,7 @@
 
 ### About Me :speech_balloon:
 
-Computer engineering student at Federal University of Paraiba. Experiences with natural language processing, data science, reinforcement learning and bioinformatics  with emphasis on characterization of oncological SNPs and [ncRna coding potential](https://rnamining.integrativebioinformatics.me/) with machine learning algorithms. Currently i'm developer at [Conductor Tecnologia](https://www.conductor.com.br/) and researcher at [ARIA](https://aria.ci.ufpb.br/).
+Computer engineering student at Federal University of Paraiba. Experiences with natural language processing, data science, reinforcement learning and bioinformatics  with emphasis on characterization of oncological SNPs and [RNAs coding potential](https://rnamining.integrativebioinformatics.me/) with machine learning algorithms. Currently i'm developer at [Conductor Tecnologia](https://www.conductor.com.br/) and researcher at [ARIA](https://aria.ci.ufpb.br/).
 
 ## Languages and Tecnologies
 
