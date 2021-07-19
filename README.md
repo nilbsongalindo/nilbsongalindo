@@ -11,7 +11,7 @@
 
 ### About Me :speech_balloon:
 
-Computer engineering student at Federal University of Paraiba. Experiences with natural language processing, data science, reinforcement learning and bioinformatics  with emphasis on characterization of oncological SNPs and [RNAs coding potential](https://rnamining.integrativebioinformatics.me/) with machine learning algorithms. Currently i'm a data scientist at [Capgemini](https://www.capgemini.com/) and researcher at [ARIA](https://aria.ci.ufpb.br/).
+Computer engineering student at Federal University of Paraiba. Experiences with natural language processing, data science, reinforcement learning and bioinformatics  with emphasis on characterization of oncological SNPs and [RNAs coding potential](https://rnamining.integrativebioinformatics.me/) with machine learning algorithms. Currently i'm a data scientist at Itaú Unibanco and researcher at [ARIA](https://aria.ci.ufpb.br/).
 
 ## Languages and Tecnologies
 
